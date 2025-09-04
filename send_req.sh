@@ -1,6 +1,6 @@
 # replace with returned url drom modal
-MODAL_URL="https://felenclilian2018--generate.modal.run"
-WARMUP_URL="https://felenclilian2018--warmup.modal.run"
+MODAL_URL=
+WARMUP_URL=
 TIME=$(date +"%T")
 file="speech_from_modal_$TIME"
 
